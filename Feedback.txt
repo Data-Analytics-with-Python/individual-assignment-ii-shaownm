@@ -1,0 +1,4 @@
+
+A1-ii) You should have mentioned “there are exceptions”: -1
+C2-ii) Comment on lower/upper fence, median, q1, q3, outliers: -5 
+94/100
